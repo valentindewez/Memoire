@@ -6,7 +6,7 @@ weight = 3
 
 +++
 
-# Temps de la publication
+# temps de la publication
 
 
 
@@ -64,7 +64,7 @@ La conception d'un livre peut se programmer et être automatisée avec des scrip
 
 On observe actuellement une réelle volonté d'interroger les processus de création visuelle, notamment parce que les quantités de contenu à gérer ne sont plus compatibles avec les méthodologies conventionnelles. Ainsi, le groupe de recherche PrePostPrint[^33] défend depuis 2017 une approche de la publication expérimentale, où un même contenu formaté avec les langages du Web (HTML/XML[^34]) est susceptible d'être publié sous différentes plateformes et différents formats. PrePostPrint associe des designers graphiques qui expérimentent ce type de processus pour envisager une autre manière de concevoir les objets imprimés.
 
-Dans une optique similaire, « Open Source Publishing dessine des mises en page et code avec des logiciels libres ou open source. Il s'agit d'abord de questionner nos pratiques avec ces médiateurs omniprésents que sont les outils numériques et les communautés dont ils sont issus. Alors que la matérialité de l'informatique s'efface derrière des interfaces «intuitives »[^2^], le logiciel libre, par sa nature ouverte, invite à saisir l\'épaisseur culturelle des formats, interfaces et usages. Splines spirographiques, filtres ImageMagick ou lignes de commande sont quelques-unes des rencontres qui ont changé notre manière d'appréhender le vecteur, le bitmap ainsi que la manière de construire et de partager nos propres outils. Mais pour ce qui est de la mise en page, nous nous retrouvons face à un dilemme cornélien: celui d'avoir à choisir entre d'un côté une approche essentiellement visuelle, incarnée par Scribus et InDesign, et de l'autre une approche intégralement programmatique incarnée par TeX, LaTeX, Context. »[^35] ou Pandoc[^36].
+Dans une optique similaire, « Open Source Publishing dessine des mises en page et code avec des logiciels libres ou open source. Il s'agit d'abord de questionner nos pratiques avec ces médiateurs omniprésents que sont les outils numériques et les communautés dont ils sont issus. Alors que la matérialité de l'informatique s'efface derrière des interfaces «intuitives », le logiciel libre, par sa nature ouverte, invite à saisir l\'épaisseur culturelle des formats, interfaces et usages. Splines spirographiques, filtres ImageMagick ou lignes de commande sont quelques-unes des rencontres qui ont changé notre manière d'appréhender le vecteur, le bitmap ainsi que la manière de construire et de partager nos propres outils. Mais pour ce qui est de la mise en page, nous nous retrouvons face à un dilemme cornélien: celui d'avoir à choisir entre d'un côté une approche essentiellement visuelle, incarnée par Scribus et InDesign, et de l'autre une approche intégralement programmatique incarnée par TeX, LaTeX, Context. »[^35] ou Pandoc[^36].
 
 De cette façon, un support comme l'édition numérique pourrait amener les lecteurs à exiger pour la plupart des situations de lecture intensive avec les divers avantages qui font la supériorité du support numérique, à savoir l'ubiquité d'accès que donne le Web, l'indexation généralisée qui permet de retrouver rapidement une citation ou une note marginale, la facilité des opérations de citation et, surtout, le contact permanent avec un espace de lecture où tous les textes sont interreliés et peuvent entrer instantanément en résonance les uns avec les autres.
 
@@ -198,9 +198,9 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 [^11]: Antoine Fauchié, https://www.quaternum.net/2019/12/12/l-ecriture-du-papyrus-a-l-hypertexte/
 
-[^12]: L\'édition à l\'ère numérique Epron, Benoît (1977-\....). Auteur \| Vitali-Rosati, Marcello (1979-\....). Auteur Édité par [La Découverte] - 2018**.**
+[^12]: L\'édition à l\'ère numérique Epron, Benoît (1977-\....). Auteur \| Vitali-Rosati, Marcello (1979-\....). Auteur Édité par La Découverte - 2018.
 
-[^13]: Un wiki est une [application web] qui permet la création, la modification et l\'illustration [collaboratives] de [pages] à l\'intérieur d\'un [site web]. Il utilise un [langage de balisage] et son contenu est modifiable au moyen d'un [navigateur web]. C\'est un logiciel de [gestion de contenu], dont la structure implicite est minimale, tandis que la structure explicite se met en place progressivement en fonction des besoins des usagers.
+[^13]: Un wiki est une application web qui permet la création, la modification et l\'illustration collaboratives de pages à l\'intérieur d\'un site web. Il utilise un langage de balisage et son contenu est modifiable au moyen d'un navigateur web. C\'est un logiciel de gestion de contenu, dont la structure implicite est minimale, tandis que la structure explicite se met en place progressivement en fonction des besoins des usagers.
 
 [^14]: s\'applique aux logiciels (et s\'étend maintenant aux œuvres de l\'esprit) dont la licence respecte des critères précisément établis par l\'Open Source Initiative, c\'est-à-dire les possibilités de libre redistribution, d\'accès au code source et de création de travaux dérivés. Mis à la disposition du grand public, ce code source est généralement le résultat d\'une collaboration entre programmeurs.
 
@@ -208,7 +208,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 [^16]: Google, Apple, Facebook, Amazon et Microsoft.
 
-[^17]: Propos de Franck Leibovici dans L' é[mission] *[La Suite dans les idées],* « Uncreative writing » : pour une écriture sans écriture, le 02/06/2018
+[^17]: Propos de Franck Leibovici dans L' émission *La Suite dans les idées,* « Uncreative writing » : pour une écriture sans écriture, le 02/06/2018
 
 [^18]: cf. Le rôle du mimétisme dans l\'apprentissage chez l'enfant et Mimétisme comportemental René Girard-Association Recherches Mimétiques, « Psychologie - René Girard - Association Recherches Mimétiques » \[archive\], sur *www.rene-girard.fr* (consulté le 19 août 2021).
 
@@ -224,7 +224,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 [^24]: Mécanisme d\'identification de ressources, le but des DOI est de faciliter la gestion numérique sur le long terme de toute chose en associant des métadonnées à l\'identifiant de la chose à gérer. Les métadonnées peuvent évoluer au cours du temps, mais l\'identifiant reste invariant.
 
-[^25]: [[https://fr.wikipedia.org/wiki/Logiciel_libre]{.underline}][4], Alexis Kauffmann**.**
+[^25]: https://fr.wikipedia.org/wiki/Logiciel_libre, Alexis Kauffmann**.**
 
 [^26]: Git est un système de contrôle de version distribué gratuit et open source conçu pour gérer tout, des petits aux très grands projets numériques.
 
@@ -247,3 +247,4 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 [^35]: « HTML2PRINT SANS SAUCE » *in* HTML SAUCE COCKTAIL, SAUCE Ã PART, OPEN SOURCE PUBLISHING -- GRAPHIC DESIGN CARAVAN, February 15th, 2017, http://ospublish.constantvzw.org/blog/news/html-sauce-cocktail-sauce-a-part \[consulté le 17/11/21 à 15:02\]
 
 [^36]: Pandoc est un convertisseur de documents balisés. Pandoc permet de convertir un fichier depuis un format de balisage vers un autre format de balisage, typiquement depuis le format de balisage léger Markdown vers le format de balisage moins léger HTML. Créé en 2006 par John MacFarlane, professeur de philosophie, Pandoc est souvent qualifié de "couteau suisse de l'édition". Fauchier, Antoine, Fabriques de publication : Pandoc, 03/04/2020, https://www.quaternum.net/2020/04/30/fabriques-de-publication-pandoc/ \[consulté le 10/11/2021 à 12:07\]
+

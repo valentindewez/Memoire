@@ -6,7 +6,7 @@ weight = 7
 
 +++
 
-# Remerciements
+# remerciements
 
 Je souhaite remercier le corps enseignant du DNSEP Design Graphique de l’ésad Amiens.
 Tout particulièrement Simon Renaud et Sara Martinetti pour m’avoir aiguillé tout au long de mes recherches et de l'écriture. Pour leur témoignage, leur intêret et leurs avis, Rémi Forte et Bérenice Serra. Pour sa patience, sa minutie et ses multiples relectures, mon père Florent Dewez.

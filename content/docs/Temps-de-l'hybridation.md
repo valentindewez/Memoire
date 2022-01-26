@@ -6,7 +6,7 @@ weight = 4
 
 +++
 
-# Temps de l'hybridation 
+# temps de l'hybridation 
 
 
 
@@ -231,9 +231,9 @@ automatiquement, Framalibre, 2017***
 
 ***Fouloscopie, Medhi Moussaid, 2018, https://www.youtube.com/c/Fouloscopie***
 
-[^1]: Julie Blanc, Grand Atelier 2020, ESAD Orléans, Scripter Gutenberg: des publication de papier et d'écran, https://workshops.julie-blanc.fr/2020-esad-orleans/ /[consulté le 17/11/21 à 17:09/]
+[^1]: Julie Blanc, Grand Atelier 2020, ESAD Orléans, Scripter Gutenberg: des publication de papier et d'écran, https://workshops.julie-blanc.fr/2020-esad-orleans/ [consulté le 17/11/21 à 17:09/]
 
-[^2]: Vitali-Rosati, Marcello. 2015. « An editor for academic papers (xml, html, md, TeX, pdf and if you really need it rtf) ». BlogPost. *Culture numérique*. [[http://blog.sens-public.org/marcellovitalirosati/an-editor-for-academic-papers-xml-html-md-tex-pdf-and-if-you-really-need-it-rtf/
+[^2]: Vitali-Rosati, Marcello. 2015. « An editor for academic papers (xml, html, md, TeX, pdf and if you really need it rtf) ». BlogPost. *Culture numérique*. http://blog.sens-public.org/marcellovitalirosati/an-editor-for-academic-papers-xml-html-md-tex-pdf-and-if-you-really-need-it-rtf/
 
 [^3]: Ibid.
 
@@ -253,11 +253,11 @@ automatiquement, Framalibre, 2017***
 
 [^11]: Abrüpt, organisation https://abrupt.cc/organisation/
 
-[^12]: Abrüpt, Antilivre [[https://www.antilivre.org/#manifeste
+[^12]: Abrüpt, Antilivre https://www.antilivre.org/#manifeste
 
 [^13]: Abrüpt, Partage https://abrupt.cc/partage/
 
-[^14]: Présentation de revue Back Office, [[http://www.revue-backoffice.com//[ consulté le 17/11/2021 à 15h22 /]
+[^14]: Présentation de revue Back Office, http://www.revue-backoffice.com/[ consulté le 17/11/2021 à 15h22 /]
 
 [^15]: les 140 caractères de Twitter par exemple
 
@@ -267,9 +267,9 @@ automatiquement, Framalibre, 2017***
 
 [^18]: Notamment ouvert à des personnes non-issues à leur champ d'expertise ou à la discipline de façon plus large, et donc parfois plus ouvert à la critique.
 
-[^19]: Propos tenus dans une interview chez Libération, [[https://www.liberation.fr/futurs/2016/09/07/etienne-klein-on-a-installe-un-chainon-manquant-de-la-pedagogie_1488988/
+[^19]: Propos tenus dans une interview chez Libération, https://www.liberation.fr/futurs/2016/09/07/etienne-klein-on-a-installe-un-chainon-manquant-de-la-pedagogie_1488988/
 
-[^20]: François Theurel aussi connu sous le pseudonyme Le Fossoyeur de films, entretien dans *Sur YouTube, des vulgarisateurs face caméra,* France Culture, 2016 /[consulté le 19/11/2021 à 14h27/]
+[^20]: François Theurel aussi connu sous le pseudonyme Le Fossoyeur de films, entretien dans *Sur YouTube, des vulgarisateurs face caméra,* France Culture, 2016 [consulté le 19/11/2021 à 14h27/]
 
 [^21]: Franck Leibovici, Résumé *in* des opérations d'écriture qui ne disent pas leur nom, questions théoriques, 2020
 
