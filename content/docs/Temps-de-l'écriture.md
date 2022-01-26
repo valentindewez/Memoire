@@ -44,7 +44,7 @@ Dans les supports informatiques, tous ces niveaux d\'écriture établissent un l
 
 « Notre point de vue sur l'écriture est d'abord un point de vue sur la technique, consistant minimalement à dire que la technique est anthropologiquement constitutive/constituante »[^22]. Il convient de noter que, pour la première fois de son histoire, l\'humanité a utilisé des outils d\'écriture écrits/lisibles pour lire et écrire. Mise en abyme unique, sa fonction principale est de donner à l\'écriture une place centrale dans la relation entre nous et les équipements techniques informatisés que nous façonnons. Au-delà ou en-deçà de l\'usage des idiomes, lorsque j\'utilise des appareils technologiques ancrés dans la vie quotidienne - comme les ordinateurs ou les téléphones portables - j\'adhère pleinement à la profondeur historique et à la symbolique de notre société, culture et technologie.
 
-Notre relation aux appareils informatiques est constamment immergée dans le « langage technique »[^23] qui constitue ce dit objet dans notre monde social. En plus de l\'unicité de ce « langage technique » , ma pratique tactile, physique ou d'expérience de l\'appareil informatique façonne ma compréhension de celui-ci. Cela se fait grâce à la « mémoire » obtenue durant ces innombrables répétitions quotidiennes, généralement inconsciemment, et ne nécessitant pas obligatoirement l\'utilisation du langage. Or ce geste scriptural est un geste [transitoire] et changeant au fil de nos civilisations : il semble, [fondamentalement] et instinctivement, induit par l'outil, par l'objet technique dont la représentation primordiale serait un doigt laissant trace[^24].
+Notre relation aux appareils informatiques est constamment immergée dans le « langage technique »[^23] qui constitue ce dit objet dans notre monde social. En plus de l\'unicité de ce « langage technique » , ma pratique tactile, physique ou d'expérience de l\'appareil informatique façonne ma compréhension de celui-ci. Cela se fait grâce à la « mémoire » obtenue durant ces innombrables répétitions quotidiennes, généralement inconsciemment, et ne nécessitant pas obligatoirement l\'utilisation du langage. Or ce geste scriptural est un geste transitoire et changeant au fil de nos civilisations : il semble, fondamentalement et instinctivement, induit par l'outil, par l'objet technique dont la représentation primordiale serait un doigt laissant trace[^24].
 
 Le passage de l'écriture médié par la plume vers la machine à écrire puis à l'arrivée des logiciels de traitement de texte (PAO) dans les années 80 ont permis une manipulation plus approfondie et encore moins linéaire du texte (malgré que le sommaire et la table des matières avait déjà permis initialement de rendre la lecture non-linéaire possible[^25]) --- faisant rupture comme le codex avait fait rupture auprès du parchemin --- avec des fonctions telles que *copier-coller-couper*, *ajouter-supprimer-remplacer.* Ces fonctions précédemment citées ont révolutionné la linéarité d\'écriture/lecture, de structuration textuelle et sémantique, que ce soit à l\'état du brouillon ou un état définitif, ces deux états textuels cohabitent au sein du même environnement. Nous sommes donc passés d'un rapport papier/crayon à un rapport clavier/souris avec tous les bouleversements que cela implique à la fois dans notre relation à l\'écrit, dans sa réflexion et dans sa manipulation ; notamment ce paradoxe où plus un logiciel/environnement nous est donné facile à utiliser plus « une pile de couches programmatiques "opacifiant" »[^26] (« au sein de leur fonction première : leurs capacités à traiter des symboles »[^27]) y est appliquée.
 
@@ -72,7 +72,7 @@ La pratique d'écriture numérique est devenue d'autant plus accessible cognitiv
 
 « De fait, pas d'hypertexte sans convocation dans l'esprit de l'auteur et de son lecteur d'un *hypotexte*, variante d'intertexte. »[^41]. Notamment grâce au système de balisage du texte avec l'arrivée des logiciels WYSIWYG[^42], et de l'HTML. Malgré cela, comme le collectif Open Source Publishing le dit, le logiciel WYSIWYG reste dans une limite de ce que peut être apporter ce type environnement d'écriture dans l'élaboration du publication donnée : « Dans sa tentative de simuler la manipulation directe de l'objet final, l'approche WYSIWYG se heurte aux limites du paradigme papier/ciseaux. Prisonnière de l'héritage de Gutenberg, elle ignore le potentiel de réinvention du média numérique. L'approche programmatique s\'avère elle aussi décevante car systématique et linéaire. Fonctionnant à sens unique, du code vers le visuel, elle fonctionne bien pour mettre en page des flux continus mais permet très difficilement de débrayer et de créer des mises en pages plus articulées, notamment car le format final n'est plus éditable. »[^43] Et il est aussi important de noter que cette lecture hypertextuelle peut amener à une forme de « dérive »[^44] et que l'on peut donc perdre le fil au fur et à mesure de la navigation/lecture.
 
-Des technologies de langage comme l\'HyperText Markup Language (HTML) qui sert, en informatique, à structurer un texte grâce au balisage (métadonnées) qui pourra être interprété par un navigateur. Le CSS (Cascading Style Sheet) permettant de la composition visuelle au sein d'une page web tout en prenant en compte le support dans lequel il est médié grâce aux *medias queries*[^45]. LaTeX, un [langage] et un système de composition de documents. Collection de [macro-commandes] destinées à faciliter l\'utilisation du « processeur de texte » [TeX] de [Donald Knuth]. Le MarkDown, un [langage de balisage léger] créé en [2004] par [John Gruber] avec l\'aide d\'[Aaron Swartz]. Créé dans le but d\'offrir une [syntaxe] facile à lire et à écrire. Un document balisé par Markdown peut être lu en l\'état sans donner l'impression d\'avoir été balisé ou formaté par des instructions particulières. Un document balisé par Markdown peut être converti en [HTML], en [PDF] ou en d\'autres formats. Bien que la syntaxe Markdown ait été influencée par plusieurs balises de conversion de texte existants vers HTML.
+Des technologies de langage comme l\'HyperText Markup Language (HTML) qui sert, en informatique, à structurer un texte grâce au balisage (métadonnées) qui pourra être interprété par un navigateur. Le CSS (Cascading Style Sheet) permettant de la composition visuelle au sein d'une page web tout en prenant en compte le support dans lequel il est médié grâce aux *medias queries*[^45]. LaTeX, un langage et un système de composition de documents. Collection de macro-commandes destinées à faciliter l\'utilisation du « processeur de texte » TeX de Donald Knuth. Le MarkDown, un langage de balisage léger créé en 2004 par John Gruber avec l\'aide d\'Aaron Swartz. Créé dans le but d\'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l\'état sans donner l'impression d\'avoir été balisé ou formaté par des instructions particulières. Un document balisé par Markdown peut être converti en HTML, en PDF ou en d\'autres formats. Bien que la syntaxe Markdown ait été influencée par plusieurs balises de conversion de texte existants vers HTML.
 
 Ou bien des environnements d'écriture, rendant l'écriture collaborative tel que *Etherpad ; do•doc,* un outil d'écriture composite mettant en avant la sémantique de l'écriture informatique (Titre 1, Titre 2, courant 1, gras...) ou *Automatic.ink* « une plateforme expérimentale d'écriture. (\...) conçue pour explorer des nouvelles formes d'écriture à l'ère des supports de lecture électroniques émergents -- notamment les tablettes numériques -- et la manière dont ces supports reposent la question d'une littérature algorithmique. (\...)[^46]**.**
 
@@ -82,21 +82,59 @@ Les designers de par l'attention qu'il porte à l'outil et à la sensibilité du
 
 Des artistes, chercheurs et designers « explorent les possibilités offertes par les nouveaux supports de l'écrit : écritures du réseau et en réseau (Lucille Calmel, hp process ou Annie Abrahams), écritures hypertextuelles (Eli Commins), écritures mobiles (Célia Houdart, Blast Theory, Ici Même Paris), écritures avec la machine et la régie informatisée du théâtre (Heiner Goebbels, Tino Sehgal ou les Baltazars), écritures avec et par les jeux vidéo (Joseph Delappe) ou les métavers (Agnès de Cayeux), écritures en continu par textos, écritures collaboratives, participatives, anonymes »[^49]
 
-![Jean-Pierre Balpe](C:\Hugo\Sites\memoire.valentindewez.com\content\docs\Images\Jean-Pierre Balpe.png)
+
+
+## Iconographie
+
+
+
+
+
+
+
+![Jean-Pierre Balpe](http://localhost:1313/docs/Images/Jean-Pierre-Balpe.png)
 
 ***Kaos 3, Actions poétiques, Balpe, 1993***
 
 
 
-
-
-![Capture_d_ecran_2014-06-19_a_16-33-05-26675](C:\Hugo\Sites\memoire.valentindewez.com\content\docs\Images\Capture_d_ecran_2014-06-19_a_16-33-05-26675.png)
+![Capture_d_ecran_2014-06-19_a_16-33-05-26675](http://localhost:1313/docs/Images/Capture_d_ecran_2014-06-19_a_16-33-05-26675.png)
 
 ***Etherpad, logiciel d'écriture collaborative, 2008***
 
 
 
+![EWtCC8NWkAAvo4h](http://localhost:1313/docs/Images/EWtCC8NWkAAvo4h.jpg)
 
+***do•doc, un outil composite, atelier des chercheurs, 2017***
+
+
+
+
+
+![automaticwriting_web_ok](http://localhost:1313/docs/Images/automaticwriting_web_ok.jpg)
+
+***Automatic.ink , une plateforme expérimentale d’écriture , HEAD-Genève, 2015***
+
+
+
+![automaticink](http://localhost:1313/docs/Images/automaticink.jpg)
+
+***Automatic.ink , une plateforme expérimentale d’écriture , HEAD-Genève, 2015***
+
+
+
+![MIT center](http://localhost:1313/docs/Images/MIT-center.jpg)
+
+***MIT center, WebGL site ACT, ACT, 2009 http://act.mit.edu/cavs***
+
+
+
+![RForte-SiteANRT-01-1600x1067](http://localhost:1313/docs/Images/RForte-SiteANRT-01-1600x1067.jpg)
+
+
+
+***Poetic program, typographic system, Rémi Forte, ANRT, 2018***
 
 [^1]: Le mutualisme est une interaction biologique hétérospécifique qui apporte des avantages, gains, profits en termes de valeur sélective dans l\'évolution.
 

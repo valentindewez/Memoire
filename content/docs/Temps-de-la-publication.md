@@ -24,7 +24,7 @@ La décennie suivante tente de connecter les savoirs et d\'orienter mieux l'indi
 
 La diffusion de contenus fait maintenant preuve d'ubiquité, tout contenu peut être à présent dupliqué, transféré, sauvegardé. Tout ceci initié par le travail de Michael Hart avec le Projet Gutenberg et qui sera secondé par les « Wiki[^13] ». Wikipédia est une partie importante du processus de recherche et de ce fait de la diffusion de contenus. Avoir plus de références permet de conforter le statut de Wikipédia comme outil de référence, notamment grâce à sa qualité Open source[^14]. Parce que tout le monde peut éditer Wikipédia, la communauté a élaboré une stratégie pour garantir la qualité des informations dans ses articles : l\'ajout de référence à des sources fiables pour permettre aux lecteurs de Wikipédia de « vérifier » l\'information. Cette stratégie permet à la communauté de travailler efficacement en vue d\'atteindre la vision de Wikipédia : réunir et offrir la somme de toutes les connaissances humaines.
 
-Les lecteurs et les éditeurs qui ne se sentent pas à l\'aise avec une information trouvée dans un article peuvent y inclure la mention \"référence nécessaire\". Cette mention fait office de traceur et permet le référencement de toutes les demandes. Des milliers d\'articles sur Wikipédia manquent de références ; [83 000 articles] de la Wikipédia francophone en manquent. Le scripteur devient donc collectif tant le lecteur peut devenir actif dans l'immédiateté de l'information dans des discours co-constitutifs.
+Les lecteurs et les éditeurs qui ne se sentent pas à l\'aise avec une information trouvée dans un article peuvent y inclure la mention \"référence nécessaire\". Cette mention fait office de traceur et permet le référencement de toutes les demandes. Des milliers d\'articles sur Wikipédia manquent de références ; 83 000 articles de la Wikipédia francophone en manquent. Le scripteur devient donc collectif tant le lecteur peut devenir actif dans l'immédiateté de l'information dans des discours co-constitutifs.
 
 *« Les bibliothécaires pourraient proposer des cours sur le développement des compétences informationnelles durant lesquels Wikipédia servirait de support pédagogique. L'encyclopédie pourrait par exemple ouvrir une discussion autour de l'importance des sources et de leur référenciation, notamment lors de la rédaction de travaux universitaires. Un échange basé sur une mise en application concrète lors de création d'une page Wikipédia avec les étudiants. Cependant, les enjeux sont plus vastes que cela, car Wikipédia représente une culture éditoriale unique de par l'horizontalité de ses pratiques. »[^15]*
 
@@ -67,6 +67,114 @@ On observe actuellement une réelle volonté d'interroger les processus de créa
 Dans une optique similaire, « Open Source Publishing dessine des mises en page et code avec des logiciels libres ou open source. Il s'agit d'abord de questionner nos pratiques avec ces médiateurs omniprésents que sont les outils numériques et les communautés dont ils sont issus. Alors que la matérialité de l'informatique s'efface derrière des interfaces «intuitives »[^2^], le logiciel libre, par sa nature ouverte, invite à saisir l\'épaisseur culturelle des formats, interfaces et usages. Splines spirographiques, filtres ImageMagick ou lignes de commande sont quelques-unes des rencontres qui ont changé notre manière d'appréhender le vecteur, le bitmap ainsi que la manière de construire et de partager nos propres outils. Mais pour ce qui est de la mise en page, nous nous retrouvons face à un dilemme cornélien: celui d'avoir à choisir entre d'un côté une approche essentiellement visuelle, incarnée par Scribus et InDesign, et de l'autre une approche intégralement programmatique incarnée par TeX, LaTeX, Context. »[^35] ou Pandoc[^36].
 
 De cette façon, un support comme l'édition numérique pourrait amener les lecteurs à exiger pour la plupart des situations de lecture intensive avec les divers avantages qui font la supériorité du support numérique, à savoir l'ubiquité d'accès que donne le Web, l'indexation généralisée qui permet de retrouver rapidement une citation ou une note marginale, la facilité des opérations de citation et, surtout, le contact permanent avec un espace de lecture où tous les textes sont interreliés et peuvent entrer instantanément en résonance les uns avec les autres.
+
+
+
+## Iconographie
+
+
+
+
+
+![Arpanet_logical_map,_march_1977](http://localhost:1313/docs/Images/Arpanet_logical_map,_march_1977.jpg)
+
+
+
+***Carte logique du réseau, ARPANET, DARPA, 1977.***
+
+
+
+![Constitution](http://localhost:1313/docs/Images/Constitution.jpg)
+
+
+
+***Déclaration d’indépendance des États-unis d’Amérique, eText#1, Project Gutenberg, Michael Hart, 1971.***
+
+
+
+![An_Advertisement_of_The_Federalist_-_Project_Gutenberg_eText_16960](http://localhost:1313/docs/Images/An_Advertisement_of_The_Federalist_-_Project_Gutenberg_eText_16960.jpg)
+
+
+
+***The Federalist, eText#18, Project Gutenberg, Michael Hart, 1971.***
+
+
+
+![MarkDown](http://localhost:1313/docs/Images/MarkDown.jpg)
+
+
+
+***Mémoire, Antoine Fauchié, écrit en MarkDown, 2019***
+
+
+
+![Alexis_Kauffmann_2](http://localhost:1313/docs/Images/Alexis_Kauffmann_2.jpg)
+
+
+
+***Page Wikipédia d'Alexis Kauffmann, 2017 https://fr.wikipedia.org/wiki/Alexis_ Kauffmann***
+
+
+
+![Alexis_Kauffmann](http://localhost:1313/docs/Images/Alexis_Kauffmann.jpg)
+
+
+
+***Edition page Wikipédia d'Alexis Kauffmann, 2021 https://fr.wikipedia.org/w/index.php?title=Alexis_ Kauffmann&action=history***
+
+
+
+![electre_2](http://localhost:1313/docs/Images/electre_2.png)
+
+
+
+***Prototype of a virtual exhibition for the archives of Électre, staged by Antoine Vitez, Gabriele Cepulyte , 2018***
+
+
+
+![electre_5](http://localhost:1313/docs/Images/electre_5.png)
+
+
+
+***Prototype of a virtual exhibition for the archives of Électre, staged by Antoine Vitez, Gabriele Cepulyte , 2018***
+
+
+
+![ANRT2015-Sylvain-JULE-03-1-1600x1000](http://localhost:1313/docs/Images/ANRT2015-Sylvain-JULE-03-1-1600x1000.jpg)
+
+
+
+***(Trans)textual interfaces, Sylvain Julé, ANRT, 2015***
+
+
+
+![ANRT2015-Sylvain-JULE-08-1-1600x1000](http://localhost:1313/docs/Images/ANRT2015-Sylvain-JULE-08-1-1600x1000.jpg)
+
+
+
+***(Trans)textual interfaces, Sylvain Julé, ANRT, 2015***
+
+
+
+![screenshot-2018-07-12-11.40.02-1200x765-q60](http://localhost:1313/docs/Images/screenshot-2018-07-12-11.40.02-1200x765-q60.png)
+
+
+
+***do•doc, un outil composite, atelier des chercheurs, 2017***
+
+
+
+![Screenshot-2020-05-28-13.46.22_resultat](http://localhost:1313/docs/Images/Screenshot-2020-05-28-13.46.22_resultat.png)
+
+
+
+***do•doc, un outil composite, atelier des chercheurs, 2017***
+
+
+
+
+
+
 
 [^1]: Vitali-Rosati M. et Epron B. L\'édition à l\'ère numérique, 2018
 

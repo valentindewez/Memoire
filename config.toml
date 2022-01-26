@@ -1,11 +1,7 @@
 baseURL = 'http://example.org/'
 copyright = 'Everything is mine'
 defaultContentLanguage = 'fr'
-title = 'Le livre numérique'
-
-  [Chapitre-1]
-	 title = 'blog section'
-	 weight = -110
+title = "L'édition numérique à l'ère Post-Internet, entre pragmatique et esthétique"
 
 
 # (Optional) Set Google Analytics if you use it to track your website.
