@@ -112,7 +112,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-***Page Wikipédia d'Alexis Kauffmann, 2017 https://fr.wikipedia.org/wiki/Alexis_ Kauffmann***
+***Page Wikipédia d'Alexis Kauffmann, 2017 https://fr.wikipedia.org/wiki/Alexis_Kauffmann***
 
 
 
@@ -120,7 +120,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-***Edition page Wikipédia d'Alexis Kauffmann, 2021 https://fr.wikipedia.org/w/index.php?title=Alexis_ Kauffmann&action=history***
+***Edition page Wikipédia d'Alexis Kauffmann, 2021 https://fr.wikipedia.org/w/index.php?title=Alexis_Kauffmann&action=history***
 
 
 
