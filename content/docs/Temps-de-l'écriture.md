@@ -152,7 +152,7 @@ Des artistes, chercheurs et designers « explorent les possibilités offertes pa
 
 [^8]: L'époque de la réforme de Cluny amène une grande vitalité monastique au X^e^ siècle.
 
-[^9]: [Frederic Kaplan], *Les trois futurs des livres-machines*, février 10, 2012, [[https://fkaplan.wordpress.com/2012/02/10/les-trois-futurs-des-livres-machines/ \[consulté le 16/11/2021 à 15:39\]
+[^9]: Frederic Kaplan, *Les trois futurs des livres-machines*, février 10, 2012, https://fkaplan.wordpress.com/2012/02/10/les-trois-futurs-des-livres-machines/ \[consulté le 16/11/2021 à 15:39\]
 
 [^10]: Machine de composition mécanique utilisant un clavier pour produire des lignes justifiées fondues en un seul bloc.
 
@@ -182,7 +182,7 @@ Des artistes, chercheurs et designers « explorent les possibilités offertes pa
 
 [^23]: Ces quelques préalables se trouvent contenus dans une dernière proposition qui justifie toute recherche sémio-critique. La culture nous apparaît de plus en plus comme un système général de symboles, régi par les mêmes opérations : il y a une unité du champ symbolique, et la culture, sous tous ses aspects, est une langue. \[\...\], Roland Barthes
 
-[^24]: Jacques Derrida : Écriture laissant trace**.**
+[^24]: Jacques Derrida : Écriture laissant trace.
 
 [^25]: Dans la terminologie de Gérard Genette, le sommaire désigne un segment textuel dans lequel une partie de l'histoire événementielle est résumée, ce qui procure un effet d'accélération.
 
@@ -222,7 +222,7 @@ Des artistes, chercheurs et designers « explorent les possibilités offertes pa
 
 [^43]:  « HTML2PRINT SANS SAUCE » *in* HTML SAUCE COCKTAIL, SAUCE Ã PART, OPEN SOURCE PUBLISHING -- GRAPHIC DESIGN CARAVAN, February 15th, 2017, [[http://ospublish.constantvzw.org/blog/news/html-sauce-cocktail-sauce-a-part \[consulté le 17/11/21 à 15:02\]
 
-[^44]: Dans son blog pour une philosophie du numérique (\[en ligne\] <http://blog.sens-public.org/marcellovitalirosati/faut-il-se-deconnecter-moi-je-vais-en-bateau/>), Marcello Vitali-Rosati affirme que la littérature numérique est précisément le lieu de cette réappropriation métaphorique, et il cite les œuvres de Cécile Portier, Victoria Welby, Pierre Ménard et la sienne, précisément intitulée : *Navigation* (\[en ligne\] [[http://navigations.vitalirosati.eu/][4].
+[^44]: Dans son blog pour une philosophie du numérique (\[en ligne\] <http://blog.sens-public.org/marcellovitalirosati/faut-il-se-deconnecter-moi-je-vais-en-bateau/>), Marcello Vitali-Rosati affirme que la littérature numérique est précisément le lieu de cette réappropriation métaphorique, et il cite les œuvres de Cécile Portier, Victoria Welby, Pierre Ménard et la sienne, précisément intitulée : *Navigation* (\[en ligne\] [[http://navigations.vitalirosati.eu/].
 
 [^45]: Extensions du langage CSS qui définit le CSS selon le support.
 
