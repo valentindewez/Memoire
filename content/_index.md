@@ -1,4 +1,4 @@
-# l'édition numérique à l'ère post-internet *entre pragmatique et esthétique*
+# l'édition numérique à l'ère post-internet, *entre pragmatique et esthétique*
 
 
 
