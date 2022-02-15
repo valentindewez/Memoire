@@ -1,0 +1,48 @@
+/* Trocchi */
+@import url('https://fonts.googleapis.com/css2?family=Trocchi&display=swap');
+  
+@font-face {
+  font-family: 'Trocchi', serif;;
+  src: url('https://fonts.googleapis.com/css2?family=Trocchi&display=swap');
+}
+
+
+/* DTL */
+@font-face {
+  font-family: 'DTLFleischmann-SDRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('fonts/DTLFleischmann-SDRegular.otf') format('otf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/DTLFleischmann-SDRegular.otf') format('otf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* DTL */
+@font-face {
+  font-family: 'DTLFleischmann-SDRegular';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local(''),
+       url('fonts/DTLFleischmann-SDRegular.otf') format('otf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/DTLFleischmann-SDRegular.otf') format('otf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-mono-regular - latin */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('fonts/roboto-mono-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/roboto-mono-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+body {
+  font-family: 'Trocchi';
+}
+
+code {
+  font-family: 'Roboto Mono', monospace;
+}
