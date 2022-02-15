@@ -158,7 +158,7 @@ J'ai ici compilé ses questionnements et bouleversements en distinguant chaque s
 
 
 
-![pandoc_screen](http://localhost:1313/docs/Images/pandoc_screen.jpg)
+![pandoc_screen](Images/pandoc_screen.jpg)
 
 
 
@@ -167,7 +167,7 @@ automatiquement, Framalibre, 2017***
 
 
 
-![screenshot](http://localhost:1313/docs/Images/screenshot.jpg)
+![screenshot](Images/screenshot.jpg)
 
 
 
@@ -175,7 +175,7 @@ automatiquement, Framalibre, 2017***
 
 
 
-![screen-indefensible-7-copie](http://localhost:1313/docs/Images/screen-indefensible-7-copie.jpg)
+![screen-indefensible-7-copie](Images/screen-indefensible-7-copie.jpg)
 
 
 
@@ -183,7 +183,7 @@ automatiquement, Framalibre, 2017***
 
 
 
-![screen-indefensible-3](http://localhost:1313/docs/Images/screen-indefensible-3.jpg)
+![screen-indefensible-3](Images/screen-indefensible-3.jpg)
 
 
 
@@ -191,7 +191,7 @@ automatiquement, Framalibre, 2017***
 
 
 
-![un_vide_en_soi](http://localhost:1313/docs/Images/un_vide_en_soi.jpg)
+![un_vide_en_soi](Images/un_vide_en_soi.jpg)
 
 
 
@@ -199,7 +199,7 @@ automatiquement, Framalibre, 2017***
 
 
 
-![un_vide_en_soi_pdf](http://localhost:1313/docs/Images/un_vide_en_soi_pdf.jpg)
+![un_vide_en_soi_pdf](Images/un_vide_en_soi_pdf.jpg)
 
 
 
@@ -207,11 +207,11 @@ automatiquement, Framalibre, 2017***
 
 
 
-![Back-office](http://localhost:1313/docs/Images/Back-office.jpg)
+![Back-office](Images/Back-office.jpg)
 
 ***Revue Back Office, #1 — Faire avec, version numérique, B42, 2017, http://www.revue-backoffice.com/numeros/01-faire-avec***
 
-![Back-office-2](http://localhost:1313/docs/Images/Back-office-2.jpg)
+![Back-office-2](Images/Back-office-2.jpg)
 
 
 
@@ -219,13 +219,13 @@ automatiquement, Framalibre, 2017***
 
 
 
-![Leibovini](http://localhost:1313/docs/Images/Leibovini.jpg)
+![Leibovini](Images/Leibovini.jpg)
 
 
 
 ***de l'amour, Franck Leibovici, Collection Uncreative Writings, Jean Boîte éditions, 2019***
 
-![Fouloscopie](http://localhost:1313/docs/Images/Fouloscopie.jpg)
+![Fouloscopie](Images/Fouloscopie.jpg)
 
 
 

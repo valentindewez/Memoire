@@ -92,19 +92,19 @@ Des artistes, chercheurs et designers « explorent les possibilités offertes pa
 
 
 
-![Jean-Pierre Balpe](http://localhost:1313/docs/Images/Jean-Pierre-Balpe.png)
+![Jean-Pierre Balpe](Images/Jean-Pierre-Balpe.png)
 
 ***Kaos 3, Actions poétiques, Balpe, 1993***
 
 
 
-![Capture_d_ecran_2014-06-19_a_16-33-05-26675](http://localhost:1313/docs/Images/Capture_d_ecran_2014-06-19_a_16-33-05-26675.png)
+![Capture_d_ecran_2014-06-19_a_16-33-05-26675](Images/Capture_d_ecran_2014-06-19_a_16-33-05-26675.png)
 
 ***Etherpad, logiciel d'écriture collaborative, 2008***
 
 
 
-![EWtCC8NWkAAvo4h](http://localhost:1313/docs/Images/EWtCC8NWkAAvo4h.jpg)
+![EWtCC8NWkAAvo4h](Images/EWtCC8NWkAAvo4h.jpg)
 
 ***do•doc, un outil composite, atelier des chercheurs, 2017***
 
@@ -112,25 +112,25 @@ Des artistes, chercheurs et designers « explorent les possibilités offertes pa
 
 
 
-![automaticwriting_web_ok](http://localhost:1313/docs/Images/automaticwriting_web_ok.jpg)
+![automaticwriting_web_ok](Images/automaticwriting_web_ok.jpg)
 
 ***Automatic.ink , une plateforme expérimentale d’écriture , HEAD-Genève, 2015***
 
 
 
-![automaticink](http://localhost:1313/docs/Images/automaticink.jpg)
+![automaticink](Images/automaticink.jpg)
 
 ***Automatic.ink , une plateforme expérimentale d’écriture , HEAD-Genève, 2015***
 
 
 
-![MIT center](http://localhost:1313/docs/Images/MIT-center.jpg)
+![MIT center](Images/MIT-center.jpg)
 
 ***MIT center, WebGL site ACT, ACT, 2009 http://act.mit.edu/cavs***
 
 
 
-![RForte-SiteANRT-01-1600x1067](http://localhost:1313/docs/Images/RForte-SiteANRT-01-1600x1067.jpg)
+![RForte-SiteANRT-01-1600x1067](Images/RForte-SiteANRT-01-1600x1067.jpg)
 
 
 

@@ -76,7 +76,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![Arpanet_logical_map,_march_1977](http://localhost:1313/docs/Images/Arpanet_logical_map,_march_1977.jpg)
+![Arpanet_logical_map,_march_1977](Images/Arpanet_logical_map,_march_1977.jpg)
 
 
 
@@ -84,7 +84,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![Constitution](http://localhost:1313/docs/Images/Constitution.jpg)
+![Constitution](Images/Constitution.jpg)
 
 
 
@@ -92,7 +92,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![An_Advertisement_of_The_Federalist_-_Project_Gutenberg_eText_16960](http://localhost:1313/docs/Images/An_Advertisement_of_The_Federalist_-_Project_Gutenberg_eText_16960.jpg)
+![An_Advertisement_of_The_Federalist_-_Project_Gutenberg_eText_16960](Images/An_Advertisement_of_The_Federalist_-_Project_Gutenberg_eText_16960.jpg)
 
 
 
@@ -100,7 +100,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![MarkDown](http://localhost:1313/docs/Images/MarkDown.jpg)
+![MarkDown](Images/MarkDown.jpg)
 
 
 
@@ -108,7 +108,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![Alexis_Kauffmann_2](http://localhost:1313/docs/Images/Alexis_Kauffmann_2.jpg)
+![Alexis_Kauffmann_2](Images/Alexis_Kauffmann_2.jpg)
 
 
 
@@ -116,7 +116,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![Alexis_Kauffmann](http://localhost:1313/docs/Images/Alexis_Kauffmann.jpg)
+![Alexis_Kauffmann](Images/Alexis_Kauffmann.jpg)
 
 
 
@@ -124,7 +124,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![electre_2](http://localhost:1313/docs/Images/electre_2.png)
+![electre_2](Images/electre_2.png)
 
 
 
@@ -132,7 +132,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![electre_5](http://localhost:1313/docs/Images/electre_5.png)
+![electre_5](Images/electre_5.png)
 
 
 
@@ -140,7 +140,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![ANRT2015-Sylvain-JULE-03-1-1600x1000](http://localhost:1313/docs/Images/ANRT2015-Sylvain-JULE-03-1-1600x1000.jpg)
+![ANRT2015-Sylvain-JULE-03-1-1600x1000](Images/ANRT2015-Sylvain-JULE-03-1-1600x1000.jpg)
 
 
 
@@ -148,7 +148,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![ANRT2015-Sylvain-JULE-08-1-1600x1000](http://localhost:1313/docs/Images/ANRT2015-Sylvain-JULE-08-1-1600x1000.jpg)
+![ANRT2015-Sylvain-JULE-08-1-1600x1000](Images/ANRT2015-Sylvain-JULE-08-1-1600x1000.jpg)
 
 
 
@@ -156,7 +156,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![screenshot-2018-07-12-11.40.02-1200x765-q60](http://localhost:1313/docs/Images/screenshot-2018-07-12-11.40.02-1200x765-q60.png)
+![screenshot-2018-07-12-11.40.02-1200x765-q60](Images/screenshot-2018-07-12-11.40.02-1200x765-q60.png)
 
 
 
@@ -164,7 +164,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 
 
-![Screenshot-2020-05-28-13.46.22_resultat](http://localhost:1313/docs/Images/Screenshot-2020-05-28-13.46.22_resultat.png)
+![Screenshot-2020-05-28-13.46.22_resultat](Images/Screenshot-2020-05-28-13.46.22_resultat.png)
 
 
 
