@@ -214,7 +214,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 [^19]: Web 4.0 : l\'Internet des objets et l\'IA.
 
-[^20]: \] « Le cloud computing est un modèle qui permet un accès omniprésent, pratique et à la demande à un réseau partagé et à un ensemble de ressources informatiques configurables (comme par exemple : des réseaux, des serveurs, du stockage, des applications et des services) qui peuvent être provisionnées et libérées avec un minimum d'administration. », L'informatique en Nuage, https:// www.figer.com, \[en ligne\], https:// www.figer.com/Publications/nuage. htm (Consulté le 24/10/21), National Institute of Standards and Technology
+[^20]:  « Le cloud computing est un modèle qui permet un accès omniprésent, pratique et à la demande à un réseau partagé et à un ensemble de ressources informatiques configurables (comme par exemple : des réseaux, des serveurs, du stockage, des applications et des services) qui peuvent être provisionnées et libérées avec un minimum d'administration. », L'informatique en Nuage, https:// www.figer.com, \[en ligne\], https:// www.figer.com/Publications/nuage. htm (Consulté le 24/10/21), National Institute of Standards and Technology
 
 [^21]: Une chaîne éditoriale ou chaîne d\'édition est la suite d\'opérations (ou procédé industriel) par lequel un document rédigé par un auteur est transformé en document publiable et publié. Elle consiste à formater le document écrit, à élaborer des modèles de documents, et à effectuer les conversions de fichiers nécessaires. Elle s\'occupe également du stockage et de la diffusion des documents.
 
@@ -224,7 +224,7 @@ De cette façon, un support comme l'édition numérique pourrait amener les lect
 
 [^24]: Mécanisme d\'identification de ressources, le but des DOI est de faciliter la gestion numérique sur le long terme de toute chose en associant des métadonnées à l\'identifiant de la chose à gérer. Les métadonnées peuvent évoluer au cours du temps, mais l\'identifiant reste invariant.
 
-[^25]: https://fr.wikipedia.org/wiki/Logiciel_libre, Alexis Kauffmann**.**
+[^25]: https://fr.wikipedia.org/wiki/Logiciel_libre, Alexis Kauffmann.
 
 [^26]: Git est un système de contrôle de version distribué gratuit et open source conçu pour gérer tout, des petits aux très grands projets numériques.
 
